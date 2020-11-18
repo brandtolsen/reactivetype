@@ -2,9 +2,10 @@
 
 body {
     font-family: 'Fira Sans', sans-serif;
-    font-size: 40px;
+    font-size: 80px;
     line-height: 100px;
     text-align: center;
+    cursor: crosshair;
 
     background-color: #111111;
     color: #ffffff;
@@ -26,5 +27,7 @@ section {
 
 div {
     font-weight: 100;
-    /* transform: scale(.2); */
+    -webkit-transition: -webkit-transform 1s ease-out;
+    -webkit-transition: transform 1s ease-out;
+    transition: transform 1s ease-out;
 }
