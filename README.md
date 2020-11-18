@@ -4,6 +4,4 @@ A reactive typeface based on the Airbnb Cereal site. A great way to show off the
 Demo: https://brandtolsen.github.io/reactivetype/
 
 Original source: https://airbnb.design/cereal/scale/weight/
-<br>
-Tutorial: https://www.superhi.com/video/how-to-make-reactive-type-as-seen-on-the-airbnb-cereal-site
 
